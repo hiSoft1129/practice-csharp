@@ -1,7 +1,1 @@
-# csharp
-Learning C#
-Collection of C# projects 
-
-1. Hello World 
-2. For loop
-3. Variables
+This repository contains hands-on C# practice projects designed to build a strong foundation in C# programming. The examples cover essential concepts such as variables, control flow, loops, and basic application structure.
